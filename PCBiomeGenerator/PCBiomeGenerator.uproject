@@ -26,6 +26,10 @@
 		{
 			"Name": "PCGGeometryScriptInterop",
 			"Enabled": true
+		},
+		{
+			"Name": "PCGInstancedActorsInterop",
+			"Enabled": true
 		}
 	]
 }
